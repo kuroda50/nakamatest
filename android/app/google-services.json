@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920507793853",
+    "project_id": "nakamatest-aab69",
+    "storage_bucket": "nakamatest-aab69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920507793853:android:67592c39502e101b8692d4",
+        "android_client_info": {
+          "package_name": "com.example.nakamatest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9-E865M32Myo4U_jfijevY19bA-d8vt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
